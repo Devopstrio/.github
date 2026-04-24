@@ -175,3 +175,54 @@ Follow Devopstrio to stay updated on our latest open-source accelerators and ent
 [![Company Profile](../assets/pdf-preview.png)](https://github.com/Devopstrio/.github/blob/main/assets/COMPANY_PROFILE.pdf)
 
 </div>
+
+---
+
+## Get In Touch
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Contact Details**
+- **Phone:** +44 1784 64 0216
+- **Web:** [devopstrio.co.uk](https://devopstrio.co.uk)
+- **Email:** [info@devopstrioglobal.com](mailto:info@devopstrioglobal.com)
+
+**Address**
+United Kingdom,  
+128 City Road, London,  
+EC1V 2NX
+
+</td>
+<td width="33%" valign="top">
+
+**Social Media**
+- [**LinkedIn**](https://www.linkedin.com/company/devopstrioglobal/)
+- [**Instagram**](https://instagram.com/devopstrio_offcl)
+- [**Facebook**](https://facebook.com/devopstrio)
+
+**Global Presence**
+- **HQ:** London, UK
+- **Offices:** NY (USA), Chennai & Bangalore (India)
+
+</td>
+<td width="33%" valign="top">
+
+**Delivery & Operations**
+- **Model:** Hybrid (Onshore + Offshore)
+- **Support:** 24x7 Global Operations
+- **Compliance:** GDPR, HIPAA, ISO 27001
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### LET'S DO SOMETHING AMAZING.
+
+<img src="../assets/Browser_logo.png" height="40" alt="Devopstrio Logo" />  
+**Devopstrio**
+
+</div>
