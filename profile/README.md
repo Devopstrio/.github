@@ -151,7 +151,13 @@ Zero Trust architecture, IAM blueprints & Defender suite automation aligned to C
 
 <img src="../assets/our-trust.png" width="100%" alt="Our Trust" />
 
-<br/>
+<br/><br/>
+
+### *Three pillars form our strength—People, Process, and Technology.*
+### *Three domains shape our focus—Cloud, Data, and AI.*
+**Across Azure, AWS, and GCP, we bring innovation to life. At Devopstrio, we unite DevOps and automation to modernise infrastructure and accelerate digital success.**
+
+<br/><br/>
 
 <img src="../assets/egosystem.png" width="100%" alt="Partner Ecosystem" />
 
