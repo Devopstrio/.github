@@ -34,6 +34,12 @@
 | 📋 **Catalog** | [devopstrio.co.uk/#catalog](https://devopstrio.co.uk/#catalog) |
 | 📬 **Contact** | [devopstrio.co.uk/#contact](https://devopstrio.co.uk/#contact) |
 
+<div align="center">
+
+[![Homepage Preview](../assets/homepage.jpeg)](https://devopstrio.co.uk/)
+
+</div>
+
 ---
 
 ## 🏗️ Our Transformation Methodology
@@ -54,6 +60,13 @@ graph LR
 ---
 
 ## ⚙️ Our Services
+
+<div align="center">
+
+[![Services Preview](../assets/services.jpeg)](https://devopstrio.co.uk/#services)
+
+</div>
+
 
 <table>
 <tr>
