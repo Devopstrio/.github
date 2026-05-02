@@ -4,20 +4,20 @@
 
 <h1>Devopstrio</h1>
 
-<p><strong>Enterprise Cloud · AI · DevOps Acceleration</strong></p>
+<p><strong>Enterprise Cloud &nbsp;&middot;&nbsp; AI &nbsp;&middot;&nbsp; DevOps Acceleration</strong></p>
 
 <p>
   <a href="https://devopstrio.co.uk/"><img src="https://img.shields.io/badge/Website-devopstrio.co.uk-522c72?style=for-the-badge&labelColor=0d0d0d" alt="Website"/></a>
-  <a href="https://github.com/orgs/devopstrio/repositories"><img src="https://img.shields.io/badge/Repos-31_Public-962964?style=for-the-badge&labelColor=0d0d0d" alt="Repos"/></a>
+  <a href="https://github.com/orgs/devopstrio/repositories"><img src="https://img.shields.io/badge/Repos-180+_Public-962964?style=for-the-badge&labelColor=0d0d0d" alt="Repos"/></a>
   <a href="https://www.linkedin.com/company/devopstrioglobal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ce2453?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="LinkedIn"/></a>
   <a href="mailto:info@devopstrioglobal.com"><img src="https://img.shields.io/badge/Email-Contact_Us-e79e57?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Email"/></a>
 </p>
 
-<p><em>Building the future of enterprise infrastructure — one blueprint at a time.</em></p>
+<p><em>Building the future of enterprise infrastructure &mdash; one blueprint at a time.</em></p>
 
 <p>
-  <img src="https://img.shields.io/badge/31-Open_Source_Repos-522c72?style=flat-square&labelColor=111" alt="Repos"/>
-  <img src="https://img.shields.io/badge/5-Technology_Domains-962964?style=flat-square&labelColor=111" alt="Domains"/>
+  <img src="https://img.shields.io/badge/180+-Open_Source_Repos-522c72?style=flat-square&labelColor=111" alt="Repos"/>
+  <img src="https://img.shields.io/badge/15-Technology_Domains-962964?style=flat-square&labelColor=111" alt="Domains"/>
   <img src="https://img.shields.io/badge/3-Cloud_Providers-ce2453?style=flat-square&labelColor=111" alt="Clouds"/>
   <img src="https://img.shields.io/badge/100%25-Production_Grade-e79e57?style=flat-square&labelColor=111" alt="Grade"/>
 </p>
@@ -32,18 +32,47 @@
 
 | # | Service | Description |
 |:---:|:---|:---|
-| 01 | ☁️ **Enterprise Landing Zone** | CAF-aligned Azure · AWS · GCP governance foundations with policy-as-code |
-| 02 | 🤖 **AI Landing Zone** ⭐ | Secure OpenAI · Bedrock · Vertex AI with enterprise RAG pipelines |
-| 03 | 📊 **Data Landing Zone** | Fabric · Databricks · Snowflake · Synapse lakehouse architectures |
-| 04 | ⚙️ **DevOps Transformation** | CI/CD · IaC · GitOps · Platform Engineering accelerators |
-| 05 | 🔐 **Security & Zero Trust** | Identity · Network segmentation · Compliance automation |
-| 06 | 💰 **FinOps & Cost Optimization** | Spend control · Anomaly detection · Chargeback automation |
+| 01 | ☁️ **Enterprise Landing Zone** | CAF-aligned Azure &middot; AWS &middot; GCP governance foundations with policy-as-code |
+| 02 | 🤖 **AI Landing Zone** | Secure OpenAI &middot; Bedrock &middot; Vertex AI with enterprise RAG pipelines |
+| 03 | 📊 **Data Landing Zone** | Fabric &middot; Databricks &middot; Snowflake &middot; Synapse lakehouse architectures |
+| 04 | ⚙️ **DevOps Transformation** | CI/CD &middot; IaC &middot; GitOps &middot; Platform Engineering accelerators |
+| 05 | 🔐 **Security & Zero Trust** | Identity &middot; Network segmentation &middot; Compliance automation |
+| 06 | 💰 **FinOps & Cost Optimization** | Spend control &middot; Anomaly detection &middot; Chargeback automation |
+
+---
+
+## 🚀 Top 20 Flagship Accelerators
+
+*Our most impactful open-source contributions for rapid enterprise scale.*
+
+| # | Domain | Repository | Strategic Focus |
+| :--- | :--- | :--- | :--- |
+| 1 | **Platform** | [enterprise-platform-accelerator](https://github.com/Devopstrio/enterprise-platform-accelerator) | Internal Developer Platform (IDP) Foundation |
+| 2 | **AI** | [ai-landing-zone](https://github.com/Devopstrio/ai-landing-zone) | Enterprise AI & GenAI Landing Zone |
+| 3 | **Data** | [data-landingzone](https://github.com/Devopstrio/data-landingzone) | Lakehouse & Data Mesh Reference Architecture |
+| 4 | **Application** | [app-landingzone](https://github.com/Devopstrio/app-landingzone) | Compliant Application Workload Hosting |
+| 5 | **DevOps** | [devops-platform](https://github.com/Devopstrio/devops-platform) | Scalable GitHub/ADO Platform Engineering |
+| 6 | **Security** | [zero-trust-reference](https://github.com/Devopstrio/zero-trust-reference) | Multi-Cloud Zero Trust Reference Model |
+| 7 | **Compliance** | [compliance-as-code](https://github.com/Devopstrio/compliance-as-code) | Automated SOC2, ISO, HIPAA Governance |
+| 8 | **FinOps** | [finops-foundation](https://github.com/Devopstrio/finops-foundation) | Cloud Economics & Cost Optimization |
+| 9 | **Ops** | [operations-landingzone](https://github.com/Devopstrio/operations-landingzone) | Unified Observability & Monitoring Hub |
+| 10 | **Network** | [network-landingzone](https://github.com/Devopstrio/network-landingzone) | Global Hub-and-Spoke Networking |
+| 11 | **Identity** | [identity-landingzone](https://github.com/Devopstrio/identity-landingzone) | IAM Federation & Lifecycle Foundation |
+| 12 | **AVD** | [avd-landingzone](https://github.com/Devopstrio/avd-landingzone) | Production-ready Virtual Desktop LZ |
+| 13 | **Hybrid** | [migration-factory](https://github.com/Devopstrio/migration-factory) | Large-scale Migration Orchestration |
+| 14 | **BCDR** | [bcdr-landingzone](https://github.com/Devopstrio/bcdr-landingzone) | Enterprise Resilience & Disaster Recovery |
+| 15 | **Industry** | [financial-services-lz](https://github.com/Devopstrio/financial-services-lz) | FSI-compliant Control Baselines |
+| 16 | **AI** | [genai-gateway](https://github.com/Devopstrio/genai-gateway) | Secure LLM API Gateway |
+| 17 | **Data** | [data-mesh-reference](https://github.com/Devopstrio/data-mesh-reference) | Federated Data Governance Patterns |
+| 18 | **DevOps** | [devsecops-template](https://github.com/Devopstrio/devsecops-template) | Secure CI/CD Lifecycle Pipelines |
+| 19 | **Security** | [cloud-security-benchmark](https://github.com/Devopstrio/cloud-security-benchmark) | Automated CIS & NIST Security Audits |
+| 20 | **AVD** | [avd-onboarding-accelerator](https://github.com/Devopstrio/avd-onboarding-accelerator) | Scripted VDI Onboarding in <2 Hours |
 
 ---
 
 ## 📁 Repository Architecture
 
-```
+```text
 Devopstrio/
 ├── 🏗️  Cloud & Landing Zones
 │   ├── enterprise-landing-zone          # CAF-aligned multi-cloud foundation
@@ -72,25 +101,6 @@ Devopstrio/
     ├── starter-kits
     └── cloud-finops-dashboard
 ```
-
----
-
-## 🌟 Flagship Open-Source Repos
-
-<div align="center">
-
-| Repository | Domain | Stars |
-|:---|:---:|:---:|
-| [devopstrio-landing-zone](https://github.com/Devopstrio/devopstrio-landing-zone) | ☁️ Cloud | ⭐ |
-| [terraform-enterprise-networking](https://github.com/Devopstrio/terraform-enterprise-networking) | 🌐 Networking | ⭐ |
-| [azure-openai-secure-reference](https://github.com/Devopstrio/azure-openai-secure-reference) | 🤖 AI | |
-| [aks-production-foundation](https://github.com/Devopstrio/aks-production-foundation) | ⚙️ DevOps | |
-| [devsecops-pipeline-templates](https://github.com/Devopstrio/devsecops-pipeline-templates) | 🔐 Security | |
-| [cloud-finops-dashboard](https://github.com/Devopstrio/cloud-finops-dashboard) | 💰 FinOps | |
-| [data-lakehouse-blueprint](https://github.com/Devopstrio/data-lakehouse-blueprint) | 📊 Data | |
-| [zero-trust-reference-model](https://github.com/Devopstrio/zero-trust-reference-model) | 🔐 Security | |
-
-</div>
 
 ---
 
@@ -127,6 +137,6 @@ Devopstrio/
 
 ⭐ **Star our repos** · 👁️ **Watch for updates** · 🍴 **Fork and accelerate**
 
-<sub>© 2026 Devopstrio — Enterprise Cloud · AI · DevOps Acceleration Partner</sub>
+<sub>© 2026 Devopstrio &mdash; Enterprise Cloud &middot; AI &middot; DevOps Acceleration Partner</sub>
 
 </div>
