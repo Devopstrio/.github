@@ -242,10 +242,16 @@ EC1V 2NX
 
 <div align="center">
 
-### LET'S DO SOMETHING AMAZING.
+<br/>
 
-<img src="../assets/Browser_logo.png" height="40" alt="Devopstrio Logo" />  
-**Devopstrio**
+### *Innovate with Confidence. Scale with Precision.*
+
+<img src="../assets/Browser_logo.png" height="60" alt="Devopstrio Logo" />
+
+**Devopstrio Acceleration Partner**  
+*The standard for enterprise cloud, data, and AI transformation.*
+
+<br/>
 
 </div>
 
