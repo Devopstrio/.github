@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/assets/Browser_logo.png" height="80" alt="Devopstrio Logo" />
+<img src="assets/Browser_logo.png" height="80" alt="Devopstrio Logo" />
 
 <h1>Devopstrio</h1>
 
