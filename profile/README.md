@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="../assets/Browser_logo.png" height="72" alt="Devopstrio Logo" />
+<img src="https://raw.githubusercontent.com/Devopstrio/.github/main/assets/Browser_logo.png" height="72" alt="Devopstrio Logo" />
 
 <h1>Devopstrio</h1>
 
 <p><strong>Enterprise Cloud &nbsp;&middot;&nbsp; AI &nbsp;&middot;&nbsp; DevOps Acceleration</strong></p>
 
-[![Website](https://img.shields.io/badge/Website-devopstrio.co.uk-522c72?style=for-the-badge&labelColor=000000)](https://devopstrio.co.uk/)
-[![Repos](https://img.shields.io/badge/Repos-180+_Public-962964?style=for-the-badge&labelColor=000000)](https://github.com/orgs/devopstrio/repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ce2453?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/company/devopstrioglobal/)
-[![Email](https://img.shields.io/badge/Email-Contact_Us-e79e57?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:info@devopstrioglobal.com)
-[![Company Profile](https://img.shields.io/badge/Company_Profile-Download_PDF-dd5c54?style=for-the-badge&labelColor=000000)](../assets/COMPANY_PROFILE.pdf)
+[![Website](https://img.shields.io/badge/Website-devopstrio.co.uk-522c72?style=for-the-badge&labelColor=0d0d0d)](https://devopstrio.co.uk/)
+  <a href="https://github.com/orgs/devopstrio/repositories"><img src="https://img.shields.io/badge/Repos-180+_Public-962964?style=for-the-badge&labelColor=0d0d0d" alt="Repos"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ce2453?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/company/devopstrioglobal/)
+[![Email](https://img.shields.io/badge/Email-Contact_Us-e79e57?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:info@devopstrioglobal.com)
+[![Company Profile](https://img.shields.io/badge/Company_Profile-Download_PDF-dd5c54?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Devopstrio/.github/raw/main/assets/COMPANY_PROFILE.pdf)
 
 <br/>
 
@@ -131,30 +131,42 @@ Zero Trust architecture, IAM blueprints & Defender suite automation aligned to C
 
 ---
 
-## 🚀 Top 20 Flagship Accelerators
+## Flagship Open-Source Repositories
 
-| # | Domain | Repository | Strategic Focus |
-| :--- | :--- | :--- | :--- |
-| 1 | **Platform** | [enterprise-platform-accelerator](https://github.com/Devopstrio/enterprise-platform-accelerator) | Internal Developer Platform (IDP) Foundation |
-| 2 | **AI** | [ai-landing-zone](https://github.com/Devopstrio/ai-landing-zone) | Enterprise AI & GenAI Landing Zone |
-| 3 | **Data** | [data-landingzone](https://github.com/Devopstrio/data-landingzone) | Lakehouse & Data Mesh Reference Architecture |
-| 4 | **Application** | [app-landingzone](https://github.com/Devopstrio/app-landingzone) | Compliant Application Workload Hosting |
-| 5 | **DevOps** | [devops-platform](https://github.com/Devopstrio/devops-platform) | Scalable GitHub/ADO Platform Engineering |
-| 6 | **Security** | [zero-trust-reference](https://github.com/Devopstrio/zero-trust-reference) | Multi-Cloud Zero Trust Reference Model |
-| 7 | **Compliance** | [compliance-as-code](https://github.com/Devopstrio/compliance-as-code) | Automated SOC2, ISO, HIPAA Governance |
-| 8 | **FinOps** | [finops-foundation](https://github.com/Devopstrio/finops-foundation) | Cloud Economics & Cost Optimization |
-| 9 | **Ops** | [operations-landingzone](https://github.com/Devopstrio/operations-landingzone) | Unified Observability & Monitoring Hub |
-| 10 | **Network** | [network-landingzone](https://github.com/Devopstrio/network-landingzone) | Global Hub-and-Spoke Networking |
-| 11 | **Identity** | [identity-landingzone](https://github.com/Devopstrio/identity-landingzone) | IAM Federation & Lifecycle Foundation |
-| 12 | **AVD** | [avd-landingzone](https://github.com/Devopstrio/avd-landingzone) | Production-ready Virtual Desktop LZ |
-| 13 | **Hybrid** | [migration-factory](https://github.com/Devopstrio/migration-factory) | Large-scale Migration Orchestration |
-| 14 | **BCDR** | [bcdr-landingzone](https://github.com/Devopstrio/bcdr-landingzone) | Enterprise Resilience & Disaster Recovery |
-| 15 | **Industry** | [financial-services-lz](https://github.com/Devopstrio/financial-services-lz) | FSI-compliant Control Baselines |
-| 16 | **AI** | [genai-gateway](https://github.com/Devopstrio/genai-gateway) | Secure LLM API Gateway |
-| 17 | **Data** | [data-mesh-reference](https://github.com/Devopstrio/data-mesh-reference) | Federated Data Governance Patterns |
-| 18 | **DevOps** | [devsecops-template](https://github.com/Devopstrio/devsecops-template) | Secure CI/CD Lifecycle Pipelines |
-| 19 | **Security** | [cloud-security-benchmark](https://github.com/Devopstrio/cloud-security-benchmark) | Automated CIS & NIST Security Audits |
-| 20 | **AVD** | [avd-onboarding-accelerator](https://github.com/Devopstrio/avd-onboarding-accelerator) | Scripted VDI Onboarding in <2 Hours |
+| Domain | Repository | Value |
+| :--- | :--- | :--- |
+| Strategy | [devopstrio-landing-zone](https://github.com/Devopstrio/devopstrio-landing-zone) | Multi-cloud governance blueprint |
+| Networking | [terraform-enterprise-networking](https://github.com/Devopstrio/terraform-enterprise-networking) | Hub-and-spoke with centralized security |
+| AI | [azure-openai-secure-reference](https://github.com/Devopstrio/azure-openai-secure-reference) | Privacy-first LLM infrastructure |
+| Kubernetes | [aks-production-foundation](https://github.com/Devopstrio/aks-production-foundation) | Production-ready AKS orchestration |
+| FinOps | [cloud-finops-dashboard](https://github.com/Devopstrio/cloud-finops-dashboard) | Automated cloud cost transparency |
+| Security | [security-baselines](https://github.com/Devopstrio/security-baselines) | CIS & NIST-aligned remediation |
+| Data | [data-lakehouse-blueprint](https://github.com/Devopstrio/data-lakehouse-blueprint) | Medallion architecture on Fabric & Databricks |
+
+---
+
+## Comprehensive Landing Zone Portfolio
+
+| Sector / Domain | Repository | Strategic Focus |
+| :--- | :--- | :--- |
+| **Foundation** | [enterprise-landing-zone](https://github.com/Devopstrio/enterprise-landing-zone) | CAF-aligned multi-cloud foundation |
+| **Network** | [zero-trust-network-lz](https://github.com/Devopstrio/zero-trust-network-lz) | Identity-driven network isolation |
+| **AI** | [ai-landing-zone](https://github.com/Devopstrio/ai-landing-zone) | Secure GenAI & RAG infrastructure |
+| **Data** | [data-landingzone](https://github.com/Devopstrio/data-landingzone) | Scalable Lakehouse & Analytics zones |
+| **Workload** | [workload-landingzone-iac](https://github.com/Devopstrio/workload-landingzone-iac) | Application-centric provisioning |
+| **Identity** | [identity-landingzone](https://github.com/Devopstrio/identity-landingzone) | Centralized Entra ID & IAM governance |
+| **Hybrid** | [hybrid-landingzone](https://github.com/Devopstrio/hybrid-landingzone) | Seamless on-prem & edge integration |
+| **VDI** | [avd-landingzone](https://github.com/Devopstrio/avd-landingzone) | Production-ready Azure Virtual Desktop |
+| **Telecom** | [telecom-lz](https://github.com/Devopstrio/telecom-lz) | Carrier-grade 5G & edge foundations |
+| **Finance** | [financial-services-lz](https://github.com/Devopstrio/financial-services-lz) | FSI-compliant secure zones |
+| **Government** | [government-lz](https://github.com/Devopstrio/government-lz) | Sovereignty & high-security baselines |
+| **Healthcare** | [healthcare-lz](https://github.com/Devopstrio/healthcare-lz) | HIPAA-aligned medical data zones |
+| **Automotive** | [automotive-lz](https://github.com/Devopstrio/automotive-lz) | Connected vehicle & manufacturing edge |
+| **Retail** | [retail-lz](https://github.com/Devopstrio/retail-lz) | Scalable e-commerce & store-edge mesh |
+| **Energy** | [energy-lz](https://github.com/Devopstrio/energy-lz) | Smart-grid & operational tech security |
+| **Sustainability** | [sustainability-lz](https://github.com/Devopstrio/sustainability-lz) | Green-ops & carbon-aware infrastructure |
+
+[**View All 180+ Repositories**](https://github.com/orgs/devopstrio/repositories)
 
 ---
 
