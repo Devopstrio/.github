@@ -133,38 +133,46 @@ Zero Trust architecture, IAM blueprints & Defender suite automation aligned to C
 
 ## Flagship Open-Source Repositories
 
+<div align="center">
+
 | Domain | Repository | Strategic Value |
 | :--- | :--- | :--- |
-| 🏗️ **Strategy** | [devopstrio-landing-zone](https://github.com/Devopstrio/devopstrio-landing-zone) | Multi-cloud governance & orchestration blueprint |
-| 🌐 **Networking** | [terraform-enterprise-networking](https://github.com/Devopstrio/terraform-enterprise-networking) | High-availability hub-and-spoke security mesh |
-| 🤖 **AI** | [azure-openai-secure-reference](https://github.com/Devopstrio/azure-openai-secure-reference) | Privacy-first enterprise GenAI infrastructure |
-| ⚙️ **Kubernetes** | [aks-production-foundation](https://github.com/Devopstrio/aks-production-foundation) | Production-hardened AKS cluster orchestration |
-| 💰 **FinOps** | [cloud-finops-dashboard](https://github.com/Devopstrio/cloud-finops-dashboard) | Real-time cloud cost transparency & automation |
-| 🔐 **Security** | [security-baselines](https://github.com/Devopstrio/security-baselines) | CIS & NIST-aligned zero-trust remediation |
-| 📊 **Data** | [data-lakehouse-blueprint](https://github.com/Devopstrio/data-lakehouse-blueprint) | Medallion architecture on Fabric & Databricks |
+| **Strategy** | [devopstrio-landing-zone](https://github.com/Devopstrio/devopstrio-landing-zone) | Multi-cloud governance & orchestration blueprint |
+| **Networking** | [terraform-enterprise-networking](https://github.com/Devopstrio/terraform-enterprise-networking) | High-availability hub-and-spoke security mesh |
+| **AI** | [azure-openai-secure-reference](https://github.com/Devopstrio/azure-openai-secure-reference) | Privacy-first enterprise GenAI infrastructure |
+| **Kubernetes** | [aks-production-foundation](https://github.com/Devopstrio/aks-production-foundation) | Production-hardened AKS cluster orchestration |
+| **FinOps** | [cloud-finops-dashboard](https://github.com/Devopstrio/cloud-finops-dashboard) | Real-time cloud cost transparency & automation |
+| **Security** | [security-baselines](https://github.com/Devopstrio/security-baselines) | CIS & NIST-aligned zero-trust remediation |
+| **Data** | [data-lakehouse-blueprint](https://github.com/Devopstrio/data-lakehouse-blueprint) | Medallion architecture on Fabric & Databricks |
+
+</div>
 
 ---
 
 ## Comprehensive Landing Zone Portfolio
 
+<div align="center">
+
 | Sector / Domain | Repository Accelerator | Strategic Operational Focus |
 | :--- | :--- | :--- |
-| 🏛️ **Foundation** | [enterprise-landing-zone](https://github.com/Devopstrio/enterprise-landing-zone) | CAF-aligned multi-cloud governance foundation |
-| 🌐 **Network** | [zero-trust-network-lz](https://github.com/Devopstrio/zero-trust-network-lz) | Identity-driven network isolation & inspection |
-| 🤖 **AI** | [ai-landing-zone](https://github.com/Devopstrio/ai-landing-zone) | Secure GenAI & RAG infrastructure orchestration |
-| 📊 **Data** | [data-landingzone](https://github.com/Devopstrio/data-landingzone) | Scalable Lakehouse & Analytics domain zones |
-| 🚀 **Workload** | [workload-landingzone-iac](https://github.com/Devopstrio/workload-landingzone-iac) | Application-centric provisioning & guardrails |
-| 🔐 **Identity** | [identity-landingzone](https://github.com/Devopstrio/identity-landingzone) | Centralized Entra ID & IAM global governance |
-| ☁️ **Hybrid** | [hybrid-landingzone](https://github.com/Devopstrio/hybrid-landingzone) | Seamless on-prem, edge & multi-cloud integration |
-| 💻 **VDI** | [avd-landingzone](https://github.com/Devopstrio/avd-landingzone) | Production-ready Azure Virtual Desktop (AVD) |
-| 📶 **Telecom** | [telecom-lz](https://github.com/Devopstrio/telecom-lz) | Carrier-grade 5G & edge compute foundations |
-| 🏦 **Finance** | [financial-services-lz](https://github.com/Devopstrio/financial-services-lz) | FSI-compliant secure zones & regulatory controls |
-| 🏛️ **Government** | [government-lz](https://github.com/Devopstrio/government-lz) | Sovereignty, FedRAMP & high-security baselines |
-| 🏥 **Healthcare** | [healthcare-lz](https://github.com/Devopstrio/healthcare-lz) | HIPAA-aligned medical data & HITRUST zones |
-| 🚗 **Automotive** | [automotive-lz](https://github.com/Devopstrio/automotive-lz) | Connected vehicle & manufacturing edge mesh |
-| 🛒 **Retail** | [retail-lz](https://github.com/Devopstrio/retail-lz) | Scalable e-commerce & intelligent store-edge |
-| ⚡ **Energy** | [energy-lz](https://github.com/Devopstrio/energy-lz) | Smart-grid & critical infrastructure security |
-| 🌱 **Sustainability** | [sustainability-lz](https://github.com/Devopstrio/sustainability-lz) | Green-ops & carbon-aware cloud infrastructure |
+| **Foundation** | [enterprise-landing-zone](https://github.com/Devopstrio/enterprise-landing-zone) | CAF-aligned multi-cloud governance foundation |
+| **Network** | [zero-trust-network-lz](https://github.com/Devopstrio/zero-trust-network-lz) | Identity-driven network isolation & inspection |
+| **AI** | [ai-landing-zone](https://github.com/Devopstrio/ai-landing-zone) | Secure GenAI & RAG infrastructure orchestration |
+| **Data** | [data-landingzone](https://github.com/Devopstrio/data-landingzone) | Scalable Lakehouse & Analytics domain zones |
+| **Workload** | [workload-landingzone-iac](https://github.com/Devopstrio/workload-landingzone-iac) | Application-centric provisioning & guardrails |
+| **Identity** | [identity-landingzone](https://github.com/Devopstrio/identity-landingzone) | Centralized Entra ID & IAM global governance |
+| **Hybrid** | [hybrid-landingzone](https://github.com/Devopstrio/hybrid-landingzone) | Seamless on-prem, edge & multi-cloud integration |
+| **VDI** | [avd-landingzone](https://github.com/Devopstrio/avd-landingzone) | Production-ready Azure Virtual Desktop (AVD) |
+| **Telecom** | [telecom-lz](https://github.com/Devopstrio/telecom-lz) | Carrier-grade 5G & edge compute foundations |
+| **Finance** | [financial-services-lz](https://github.com/Devopstrio/financial-services-lz) | FSI-compliant secure zones & regulatory controls |
+| **Government** | [government-lz](https://github.com/Devopstrio/government-lz) | Sovereignty, FedRAMP & high-security baselines |
+| **Healthcare** | [healthcare-lz](https://github.com/Devopstrio/healthcare-lz) | HIPAA-aligned medical data & HITRUST zones |
+| **Automotive** | [automotive-lz](https://github.com/Devopstrio/automotive-lz) | Connected vehicle & manufacturing edge mesh |
+| **Retail** | [retail-lz](https://github.com/Devopstrio/retail-lz) | Scalable e-commerce & intelligent store-edge |
+| **Energy** | [energy-lz](https://github.com/Devopstrio/energy-lz) | Smart-grid & critical infrastructure security |
+| **Sustainability** | [sustainability-lz](https://github.com/Devopstrio/sustainability-lz) | Green-ops & carbon-aware cloud infrastructure |
+
+</div>
 
 [**View All 180+ Repositories**](https://github.com/orgs/devopstrio/repositories)
 
